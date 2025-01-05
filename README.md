@@ -1,4 +1,4 @@
-# Email Core System
+# Email Engine Core System
 
 ---
 
